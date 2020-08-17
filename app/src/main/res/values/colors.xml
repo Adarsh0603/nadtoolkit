@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#BB86FC</color>
+    <color name="labelColor">#fff</color>
+    <color name="appBarColor">#1E1E1E</color>
+    <color name="buttonColor">#C292FC</color>
+</resources>
+<!--f9aa33-->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/iteration_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:padding="4dp"
+        android:text="Iteration"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/a_value_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="4dp"
+        android:text="a"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/b_value_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="4dp"
+        android:text="b"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mid_value_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="4dp"
+        android:text="mid"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/f_mid_value_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="4dp"
+        android:text="f(mid)"
+        android:textStyle="bold" />
+
+</LinearLayout>
